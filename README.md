@@ -42,7 +42,7 @@ Note: EDYOU OS is currently based on the Ubuntu LTS release `questing`. Official
 If you want to build EDYOU OS from source, use the provided `Makefile`. The common commands are:
 
 ```
-make                 (or `make current`)   Build current language
+make                 (or `make current`)    Build current language
 make all                                    Build all languages
 make fast                                   Build fast config languages
 make clean                                  Remove build artifacts
