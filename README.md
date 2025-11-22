@@ -1,5 +1,4 @@
-# EDYOU OS – Open-Source School Linux OS
-
+# EDYOU OS
 [![GPL licensed](https://img.shields.io/badge/license-GPL-blue.svg)](https://github.com/EDYOU-Systems/EDYOU-OS/blob/main/LICENSE)
 [![Discussions](https://img.shields.io/badge/discussions-join-blue)](https://github.com/EDYOU-Systems/EDYOU-OS/discussions)
 ![Website Status](https://img.shields.io/website?url=https%3A%2F%2Fedyou-systems.github.io%2FEDYOUOS%2F)
