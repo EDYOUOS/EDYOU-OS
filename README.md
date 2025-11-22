@@ -13,7 +13,7 @@ Built on **Ubuntu LTS**, EDYOU OS provides a **Windows-like interface** combined
 
 For more details, visit the official website: [EDYOU OS Website](https://edyou-systems.github.io/EDYOUOS/)
 
-![EDYOU OS Screenshot](image.png)
+![EDYOU OS Screenshot](Image.png)
 
 ---
 
