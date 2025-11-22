@@ -4,7 +4,11 @@
 [![Discussions](https://img.shields.io/badge/discussions-join-blue)](https://github.com/EDYOU-Systems/EDYOU-OS/discussions)
 ![Website Status](https://img.shields.io/website?url=https%3A%2F%2Fedyou-systems.github.io%2FEDYOUOS%2F)
 ![Latest Version](https://img.shields.io/badge/version-v1.0.0-red)
-![Languages](https://img.shields.io/badge/languages-Shell%2043.7%%20%7C%20JS%2016.4%%20%7C%20C%201.2%%20%7C%20Makefile%200.5%-red)
+![Shell](https://img.shields.io/badge/Shell-43.7%25-red)
+![JavaScript](https://img.shields.io/badge/JavaScript-16.4%25-red)
+![C](https://img.shields.io/badge/C-1.2%25-red)
+![Makefile](https://img.shields.io/badge/Makefile-0.5%25-red)
+
 
 
 
