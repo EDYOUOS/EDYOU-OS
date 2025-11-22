@@ -1,4 +1,5 @@
 # EDYOU OS – Open-Source School Linux OS
+[![GPL licensed](https://img.shields.io/badge/license-GPL-blue.svg)](https://github.com/EDYOU-Systems/EDYOU-OS/blob/main/LICENSE)
 
 **EDYOU OS** is a modern, privacy-focused Linux operating system designed specifically for schools, educational institutions, and students.  
 It delivers **freedom, performance, and reliability** without the limitations of traditional operating systems.
