@@ -13,7 +13,7 @@ Built on **Ubuntu LTS**, EDYOU OS provides a **Windows-like interface** combined
 
 For more details, visit the official website: [EDYOU OS Website](https://edyou-systems.github.io/EDYOUOS/)
 
-![EDYOU OS Screenshot](Image.png)
+![EDYOU OS Screenshot](image.png)
 
 ---
 
@@ -34,6 +34,8 @@ For more details, visit the official website: [EDYOU OS Website](https://edyou-s
 2. Create a bootable USB using tools like **Rufus** or **Etcher**  
 3. Boot your system from the USB and follow the on-screen instructions  
 4. Enjoy a fully open-source, privacy-focused school operating system!
+
+Note: EDYOU OS is currently based on the Ubuntu LTS release `questing`. Official support is currently planned until 2029; this may change in future releases.
 
 ### How to build
 
