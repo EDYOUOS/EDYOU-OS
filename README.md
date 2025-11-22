@@ -1,5 +1,3 @@
-![EDYOU OS Logo](watermark.png)
-
 # EDYOU OS – Open-Source School Linux OS
 
 **EDYOU OS** is a modern, privacy-focused Linux operating system designed specifically for schools, educational institutions, and students.  
