@@ -33,6 +33,23 @@ For more details, visit the official website: [EDYOU OS Website](https://edyou-s
 3. Boot your system from the USB and follow the on-screen instructions  
 4. Enjoy a fully open-source, privacy-focused school operating system!
 
+### How to build
+
+If you want to build EDYOU OS from source, use the provided `Makefile`. The common commands are:
+
+```
+make                 (or `make current`)   Build current language
+make all                                    Build all languages
+make fast                                   Build fast config languages
+make clean                                  Remove build artifacts
+make bootstrap                              Validate environment and dependencies
+```
+
+- Build parameters (language, timezone, mirrors, input methods, etc.) are configured in `./src/args.sh`. Edit that file to change the build behavior for each run.
+- Built ISO images and related artifacts are written to `./src/dist`.
+
+Run `make fast` to build the fast configuration (now configured for `de_DE` first, then `en_US`).
+
 ---
 
 ## Community & Support
